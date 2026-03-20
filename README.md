@@ -5,7 +5,7 @@ A clean and interactive calculator web application built using **HTML, CSS, and 
 ---
 
 ## 🚀 Live Demo
-👉 (Add your deployed link here)
+👉 [(https://sanka-vamsi-akshay.github.io/Calculator/)]
 
 ---
 
